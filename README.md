@@ -9,10 +9,10 @@
 - 🌱 I’m currently learning Full Stack Web Development (Ruby on Rails, JavaScript and React)
 - 🤔 I’m looking for a Job opportunity...
 - 💬 Ask me about anything
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/dipeshtwis), [twitter](https://twitter.com/97deepeshkumar), deepesh.97kumar@gmail.com
+- 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/dipeshtwis), [twitter](https://twitter.com/97deepeshkumar), [email](deepesh.97kumar@gmail.com)
 - 😄 Pronouns: He/Him/They
 - ⚡ Fun fact: Always love your bed for 8hr/day. No more, no less
 
 
 
-![Dipesh's github stats](https://github-readme-stats.vercel.app/api?username=Dipeshtwis&hide=["issues"]&show_icons=true&theme=dark)
+![Dipesh's github stats](https://github-readme-stats.vercel.app/api?username=Dipeshtwis&hide=["issues"]&show_icons=true)
