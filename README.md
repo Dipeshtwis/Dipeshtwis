@@ -16,4 +16,3 @@
 
 
 ![Dipesh's github stats](https://github-readme-stats.vercel.app/api?username=Dipeshtwis&hide=["issues"]&show_icons=true)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipeshtwis&layout=compact&theme=light" />
