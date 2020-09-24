@@ -1,5 +1,5 @@
 <h2><img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"> there, I'm Dipesh Kumar</h2>
-
+<img align='right' src="banner-image.png" width="230">
 <p><em>Preparing for Remote Full-stack web developer</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-Dipesh%20Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dipeshtwis/)](https://www.linkedin.com/in/dipeshtwis/)
