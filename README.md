@@ -18,4 +18,4 @@
 
 
 
-![Dipesh's github stats](https://github-readme-stats.vercel.app/api?username=Dipeshtwis&hide=["issues"]&show_icons=true)
+![Dipesh's github stats](https://github-readme-stats.vercel.app/api?username=Dipeshtwis&hide=["issues"]&show_icons=true) ![Visitors](https://profile-counter.glitch.me/%7BDipeshtwis%7D/count.svg)
