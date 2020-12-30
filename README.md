@@ -8,8 +8,8 @@
 **Dipeshtwis/Dipeshtwis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on React Projects
-- 🌱 I’m currently learning Full Stack Web Development (Ruby on Rails, JavaScript and React)
+- 🔭 I’m currently working on React & Redux Projects
+- 🌱 I’m currently learning Full Stack Web Development (Ruby on Rails, JavaScript and React & Redux)
 - 🤔 I’m looking for a Job opportunity...
 - 💬 Ask me about anything
 - 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/dipeshtwis), [twitter](https://twitter.com/97deepeshkumar), [portfolio](https://deeptwist.tk)
