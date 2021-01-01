@@ -18,4 +18,4 @@
 
 
 
-![Dipesh's github stats](https://github-readme-stats.vercel.app/api?username=Dipeshtwis&hide=["issues"]&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipeshtwis&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/Dipeshtwis)| ![Visitors](https://profile-counter.glitch.me/%7BDipeshtwis%7D/count.svg)
+![Dipesh's github stats](https://github-readme-stats.vercel.app/api?username=Dipeshtwis&hide=["issues"]&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipeshtwis&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/Dipeshtwis) ![Visitors](https://profile-counter.glitch.me/%7BDipeshtwis%7D/count.svg)
