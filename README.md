@@ -8,7 +8,7 @@
 **Dipeshtwis/Dipeshtwis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- ⚡ Fun fact: Created a Project Book Hepler(Based on Twitter Redesign) that was awarded as the best project of the week.
+- ⚡ Fun fact: Created a Project Book Hepler(Based on Twitter Redesign) that was awarded as the best project of the week on Career Karma.
 - 🔭 I’m currently working on Rails and React Projects
 - 🤔 I’m looking for a next challenge in the Tech industry...
 - 💬 Ask me about anything
