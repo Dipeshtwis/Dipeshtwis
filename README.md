@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact: Created a Project Book Hepler(Based on Twitter Redesign) that was awarded as the best project of the week on [Career Karma](https://careerkarma.com/discussions/projects/a-book-helper-358/).
 - 🔭 I’m currently working on Rails and React Projects
-- 🤔 I’m looking for a next challenge in the Tech industry...
+- 🤔 I’m looking for a next challenge in the Tech industry.
 - 💬 Ask me about anything
 - 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/dipeshtwis), [twitter](https://twitter.com/97deepeshkumar), [portfolio](https://deeptwist.tk)
 - 😄 Pronouns: He/Him/They
